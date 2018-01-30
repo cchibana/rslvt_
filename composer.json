@@ -1,0 +1,7 @@
+{
+    "name": "cchibana/rslvt",
+    "description": "UniqueWords",
+    "require": {
+        "yooper/php-text-analysis": "^1.2"
+    }
+}
